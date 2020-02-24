@@ -49,6 +49,7 @@
 是谁让全体华人只能一味表忠心？  
 是谁让这个社会不能有一点的批评声音、反对声音？  
 是谁让你说真话的权利被无情剥夺？  
+是谁让你一直经受着自我审查的压抑？
 是谁让你一直生活在恐惧当中？  
 
 ## 关于
@@ -149,12 +150,10 @@
 
 ## 项目的开源许可协议
 
-**232°C** 项目 (**Project 232°C**) 属于 [make1.app (Make1APP Group)](https://github.com/make1app)
+**232°C** 项目 (**Project 232°C**) 由 [make1.app (Make1APP Group)](https://github.com/make1app) 发起，  
+以 [GPL](https://zh.wikipedia.org/wiki/GNU通用公共许可证) 许可协议开源
 
-项目以 [GPL](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-Hans) + 商用授权协议 双许可协议开源
-
-可以联系（请通过 Github Issues 公开交流）洽谈商业合作。  
-为了确保平台的公正性与非盈利性，商业合作仅限代码相关（二次开发等），拒绝任何与 **232°C** 平台自身相关的商业合作（拒绝商业推广、拒绝中共的[蓝金黄](https://chinadigitaltimes.net/space/蓝金黄)/收买/控制）。
+联系请通过 Github Issues 公开交流。  
 
 ## 特别感谢
 
