@@ -31,6 +31,10 @@
 
 ## 引子
 
+三月一日，最严网络信息审核新规施行。  
+借打击“谣言”之名，钳制思想、网络言论和非官方新闻。  
+以后[只能看到虚伪的好消息了吗，只能为习近平集权统治摇旗呐喊了吗](https://hk.appledaily.com/china/20200302/MGH2MJ6ANY22YMYSHLQYYABZTA/)？
+
 > 从中国人的切身利益、切身感受说起，  
 > 写给不能理解新闻自由、言论自由的普通人。
 
@@ -159,4 +163,12 @@
 * 本文在撰写时参考了 [ptt.ai](https://ptt.ai/chinese/) 的[使用条款](https://ptt.ai/terms-of-use-ch/)
 
 * [Matters](https://matters.news/) 是本项目的灵感来源
+
+---
+
+泼墨女孩，[踢爆造神运动](https://zh.wikipedia.org/wiki/習近平畫像潑墨事件#評價)；
+[fuck-xuexiqiangguo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)，肏死[新时代红宝书](https://opinion.udn.com/opinion/story/120611/4121556)；
+232°C，足以燃烬审查制度。
+
+它们都是<!--习-->皇帝的新衣中的小男孩，勇敢指出荒谬之处，会被你我记住。
 
