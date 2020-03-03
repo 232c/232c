@@ -1,7 +1,7 @@
 
 # Project 232°C
 
-> **232°C** 去中心化论坛，为你我，夺回新闻自由与言论自由！
+> **232°C** 去中心化交流平台（论坛），为你我，夺回新闻自由与言论自由！
 
 > “一个健康的社会不应该只有一种声音”——李文亮
 
@@ -143,7 +143,7 @@
 
 ## 免责条款
 
-因为平台基于去中心化构架，平台无法审查使用者上传之内容是否合法（指美利坚合众国法律）、是否侵犯著作权、也无法为其负责。
+因为平台基于去中心化构架，平台无法审查使用者上传之内容是否合法（指英美法系）、是否侵犯著作权、也无法为其负责。
 
 ## 命名来源
 
@@ -167,8 +167,8 @@
 ---
 
 泼墨女孩，[踢爆造神运动](https://zh.wikipedia.org/wiki/習近平畫像潑墨事件#評價)；
-[fuck-xuexiqiangguo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)，肏死[新时代红宝书](https://opinion.udn.com/opinion/story/120611/4121556)；
+[fuck-xuexiqiangguo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo)，fuck 死[新时代红宝书](https://opinion.udn.com/opinion/story/120611/4121556)；
 232°C，足以燃烬审查制度。
 
-它们都是<!--习-->皇帝的新衣中的小男孩，勇敢指出荒谬之处，会被你我记住。
+它们都是<!--习-->皇帝的新衣中的小男孩，勇敢指出荒谬之处。
 
